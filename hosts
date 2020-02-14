@@ -1,0 +1,60 @@
+##
+# Host Database
+#
+# by @wgx https://github.com/wgx/hosts
+#  
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
+127.0.0.1       localhost
+255.255.255.255 broadcasthost
+::1             localhost
+
+
+0.0.0.0         www.thesun.co.uk
+0.0.0.0         thesun.co.uk
+0.0.0.0         www.telegraph.co.uk
+0.0.0.0         telegraph.co.uk
+0.0.0.0         www.dailymail.co.uk
+0.0.0.0         dailymail.co.uk
+0.0.0.0         ad.doubleclick.net  
+0.0.0.0         media.fastclick.net  
+0.0.0.0         cdn.fastclick.net 
+0.0.0.0         static.doubleclick.net
+0.0.0.0         google-analytics.com		
+0.0.0.0         ssl.google-analytics.com
+0.0.0.0         www.google-analytics.l.google.com
+0.0.0.0         www.google-analytics.com
+0.0.0.0         clk.addmt.com
+0.0.0.0         clkads.com
+0.0.0.0         clk.atdmt.com
+0.0.0.0         clk.cloudyisland.com
+0.0.0.0         clk.tradedoubler.com
+0.0.0.0         clktrk.com
+0.0.0.0         clkuk.tradedoubler.com
+0.0.0.0         connect.fullstory.com
+0.0.0.0         go.fullstory.com
+0.0.0.0         internal.fullstory.com
+0.0.0.0         prometheus.fullstory.com
+0.0.0.0         r.fullstory.com
+0.0.0.0         status.fullstory.com
+0.0.0.0         static.hotjar.com
+0.0.0.0         googleads.g.doubleclick.net
+0.0.0.0         cdn.optimizely.com
+0.0.0.0         static.chartbeat.com
+0.0.0.0         sb.scorecardresearch.com
+0.0.0.0         static.doubleclick.net
+0.0.0.0         stats.wp.com
+0.0.0.0         vendorlist.consensu.org
+0.0.0.0         trends.revcontent.com
+0.0.0.0         secure.quantserve.com
+0.0.0.0         js-sec.indexww.com
+0.0.0.0         as-sec.casalemedia.com
+0.0.0.0         as.casalemedia.com
+0.0.0.0         c.amazon-adsystem.com
+0.0.0.0         aax.amazon-adsystem.com
+0.0.0.0         t.teads.tv
+0.0.0.0         a.teads.tv
+0.0.0.0         pubads.g.doubleclick.net
+0.0.0.0         ads.rubiconproject.com
